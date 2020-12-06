@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Test message");
         Engine sportEngine = new Engine(3.5D, 450, 15.5D);
         SportCar sportCar = new SportCar("Lamborghini", "Murcielago", "yellow", 2, sportEngine);
+
+        System.out.println(sportCar.loudSound());
     }
 }
