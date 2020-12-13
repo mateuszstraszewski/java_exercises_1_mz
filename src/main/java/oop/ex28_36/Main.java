@@ -1,4 +1,4 @@
-package OOP.Ex28_36;
+package oop.ex28_36;
 
 public class Main {
     public static void main(String[] args) {
